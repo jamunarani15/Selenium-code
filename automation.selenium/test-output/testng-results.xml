@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T22:34:41 IST" name="Suite" finished-at="2023-11-16T22:35:10 IST" duration-ms="29076">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T22:34:41 IST" name="Test" finished-at="2023-11-16T22:35:10 IST" duration-ms="29076">
+      <class name="automation.selenium.testScripts.testScript">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automation.selenium.testScripts.testScript@3c77d488]" started-at="2023-11-16T22:34:41 IST" name="setup" finished-at="2023-11-16T22:34:51 IST" duration-ms="10129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="serch()[pri:0, instance:automation.selenium.testScripts.testScript@3c77d488]" started-at="2023-11-16T22:34:51 IST" name="serch" finished-at="2023-11-16T22:34:52 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automation.selenium.testScripts.testScript@3c77d488]" started-at="2023-11-16T22:34:52 IST" name="tearDown" finished-at="2023-11-16T22:35:10 IST" duration-ms="18502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.selenium.testScripts.testScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
